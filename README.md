@@ -68,7 +68,7 @@
     +12V	Battery
     GND	Battery + ESP32 GND
 
-        ![Circuit diagram](./circuit_diagram.png)
+[Circuit diagram](circuit_diagram.png)
 
 
 ## 6. Code Overview
