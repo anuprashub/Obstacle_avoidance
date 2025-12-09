@@ -73,9 +73,9 @@
 
 ## 6. Code Overview
 
-    main.c                     →   ESP32 firmware (camera + TCP + motors + ultrasonic)
+    src/main.c                     →   ESP32 firmware (camera + TCP + motors + ultrasonic)
    
-    motors.c & motors.h        →   motor driver code
+    src/motors.c & motors.h        →   motor driver code
    
     training.py                →   YOLO training script
    
