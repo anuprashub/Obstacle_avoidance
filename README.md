@@ -68,14 +68,14 @@
     +12V	Battery
     GND	Battery + ESP32 GND
 
-        ![Circuit diagram](./circuit_diagram.png)
+[Circuit diagram](circuit_diagram.png)
 
 
 ## 6. Code Overview
 
-    main.c                     →   ESP32 firmware (camera + TCP + motors + ultrasonic)
+    src/main.c                     →   ESP32 firmware (camera + TCP + motors + ultrasonic)
    
-    motors.c & motors.h        →   motor driver code
+    src/motors.c & motors.h        →   motor driver code
    
     training.py                →   YOLO training script
    
