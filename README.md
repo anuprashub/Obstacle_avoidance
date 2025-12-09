@@ -105,5 +105,8 @@
     - Espressif ESP32 Camera Driver
       https://github.com/espressif/esp32-camera
 
-    Ultralytics YOLOv8 Framework
-    https://docs.ultralytics.com
+    - FreeRTOS
+      https://www.freertos.org/Documentation/00-Overview
+
+    - Ultralytics YOLOv8 Framework
+      https://docs.ultralytics.com
